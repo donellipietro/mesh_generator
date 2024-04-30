@@ -1,0 +1,11 @@
+*.RData
+*.Rhistory
+*.DS_Store
+*.txt
+*.pdf
+
+# directories to ignore
+results/
+images/
+queue/
+data/*
